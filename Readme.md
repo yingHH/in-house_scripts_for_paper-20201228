@@ -14,7 +14,7 @@
 `* Tips: All scripts were implemented in Python3.7`
 
 ---
-For any questions, please feel free to contact me (Ying Huang) at: 
+For any questions about these scripts, please feel free to contact me (Ying Huang) at: 
 - ying.huang@webmail.hzau.edu.cn
 - yinghuang_hzau@163.com
 - ying.huang.bioinfo@gmail.com
