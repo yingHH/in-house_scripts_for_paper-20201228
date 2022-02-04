@@ -1,5 +1,7 @@
 # Paper
-- These scripts were used in paper "`Comparative analysis among different species reveals that androgen receptor is a core transcriptional factor regulating the chicken follicular selection and ovulation`".
+- These scripts were used in paper "`Comparative Analysis Among Different Species Reveals That the Androgen Receptor Regulates Chicken Follicle Selection Through Species-Specific Genes Related to Follicle Development`".
+
+- Citation: "`Huang Y, Luo W, Luo X, Wu X et al. Comparative Analysis Among Different Species Reveals That the Androgen Receptor Regulates Chicken Follicle Selection Through Species-Specific Genes Related to Follicle Development. Front Genet 2021;12:752976. PMID: 35046998`" 
 
 - Authors: "`Ying Huang, Wei Luo, Xuliang Luo, Xiaohui Wu, Jingqiu Li, Yan Sun, Shuixin Tang, Jianhua Cao, and Yanzhang Gong`".
 
